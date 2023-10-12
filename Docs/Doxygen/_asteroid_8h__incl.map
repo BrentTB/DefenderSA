@@ -1,0 +1,33 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/Asteroid.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/Asteroid.h">
+<area shape="rect" id="Node000001" title="This file contains the information for construction an asteroid object." alt="" coords="388,5,584,64"/>
+<area shape="rect" id="Node000002" href="$_projectile_entity_8h.html" title="The file holds the definition of the Projectile Entity class." alt="" coords="426,112,546,139"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="489,64,489,96,483,96,483,64"/>
+<area shape="rect" id="Node000003" href="$_game_entity_8h.html" title="File that mangages all the game entitiy functions." alt="" coords="435,187,537,213"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="489,139,489,171,483,171,483,139"/>
+<area shape="rect" id="Node000004" title=" " alt="" coords="5,261,63,288"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="435,209,280,229,79,264,78,258,279,223,435,204"/>
+<area shape="rect" id="Node000005" title=" " alt="" coords="87,261,146,288"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="436,212,315,232,162,263,161,258,314,227,435,206"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="170,261,223,288"/>
+<area shape="poly" id="edge5_Node000003_Node000006" title=" " alt="" coords="435,215,239,263,238,258,434,210"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="248,261,319,288"/>
+<area shape="poly" id="edge6_Node000003_Node000007" title=" " alt="" coords="452,216,334,258,332,253,450,211"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="344,261,399,288"/>
+<area shape="poly" id="edge7_Node000003_Node000008" title=" " alt="" coords="467,216,406,255,403,250,465,212"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="423,261,469,288"/>
+<area shape="poly" id="edge8_Node000003_Node000009" title=" " alt="" coords="481,215,463,249,458,246,477,213"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="494,261,558,288"/>
+<area shape="poly" id="edge9_Node000003_Node000010" title=" " alt="" coords="495,213,514,246,509,249,491,215"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="582,261,622,288"/>
+<area shape="poly" id="edge10_Node000003_Node000011" title=" " alt="" coords="508,212,571,251,568,255,505,216"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="645,261,698,288"/>
+<area shape="poly" id="edge11_Node000003_Node000012" title=" " alt="" coords="519,211,632,255,630,260,517,216"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="721,261,790,288"/>
+<area shape="poly" id="edge12_Node000003_Node000013" title=" " alt="" coords="534,211,707,258,705,263,532,216"/>
+<area shape="rect" id="Node000014" href="$_entity_list_8h.html" title="Enum class of the entities." alt="" coords="813,261,900,288"/>
+<area shape="poly" id="edge13_Node000003_Node000014" title=" " alt="" coords="537,208,798,258,797,263,536,213"/>
+<area shape="rect" id="Node000015" href="$_clock_8h.html" title="This file manages the clock functionality. The clock controls the time of the game...." alt="" coords="924,261,989,288"/>
+<area shape="poly" id="edge14_Node000003_Node000015" title=" " alt="" coords="537,204,699,223,909,258,908,263,699,229,537,209"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="888,336,1025,363"/>
+<area shape="poly" id="edge15_Node000015_Node000016" title=" " alt="" coords="959,289,959,320,954,320,954,289"/>
+</map>

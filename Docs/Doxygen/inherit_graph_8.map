@@ -1,0 +1,25 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="Node000000" href="$class_game_entity.html" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="5,132,96,159"/>
+<area shape="rect" id="Node000001" href="$class_enemy_entity.html" title="This Enemy Entity class is the base class for all entities and is inhertied from GameEntity." alt="" coords="150,31,247,57"/>
+<area shape="poly" id="edge1_Node000000_Node000001" title=" " alt="" coords="75,120,106,93,142,67,163,55,166,60,145,72,110,97,79,124"/>
+<area shape="rect" id="Node000004" href="$class_fuel_tank.html" title="Class that intitialises the FuelTank and is derived from the GameEntity class." alt="" coords="161,81,236,108"/>
+<area shape="poly" id="edge4_Node000000_Node000004" title=" " alt="" coords="105,124,160,105,161,110,107,129"/>
+<area shape="rect" id="Node000005" href="$class_humanoid.html" title="This class runds the humanoid functionality and is derived from GameEntity." alt="" coords="159,132,238,159"/>
+<area shape="poly" id="edge5_Node000000_Node000005" title=" " alt="" coords="111,143,158,143,158,148,111,148"/>
+<area shape="rect" id="Node000006" href="$class_player.html" title="This is the player class, it manages all the functions associated with player This class is a derived..." alt="" coords="169,183,228,209"/>
+<area shape="poly" id="edge6_Node000000_Node000006" title=" " alt="" coords="107,162,169,184,168,189,105,167"/>
+<area shape="rect" id="Node000007" href="$class_projectile_entity.html" title="This class manages the functionality of the Projectiles This class is derived from GameEntity." alt="" coords="144,233,253,260"/>
+<area shape="poly" id="edge7_Node000000_Node000007" title=" " alt="" coords="79,167,110,193,145,219,166,231,163,235,142,224,106,198,75,171"/>
+<area shape="rect" id="Node000002" href="$class_bomber.html" title="Bomber class Manages the bomber object. Setting up initial variable size and functions." alt="" coords="314,5,380,32"/>
+<area shape="poly" id="edge2_Node000001_Node000002" title=" " alt="" coords="261,31,313,22,314,27,262,36"/>
+<area shape="rect" id="Node000003" href="$class_lander.html" title="This class is a derived class of EnemyEntity which is also derived from GameEntity...." alt="" coords="317,56,377,83"/>
+<area shape="poly" id="edge3_Node000001_Node000003" title=" " alt="" coords="262,52,317,62,316,67,262,57"/>
+<area shape="rect" id="Node000008" href="$class_asteroid.html" title="Asteroid (stop sign) class which is a subclass of the ProjectileEntity class. The ProjectileEntity cl..." alt="" coords="313,157,382,184"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="242,224,252,219,320,182,322,187,254,224,244,229"/>
+<area shape="rect" id="Node000009" href="$class_lander_laser.html" title="The class that constructs the LanderLaser entity." alt="" coords="301,208,393,235"/>
+<area shape="poly" id="edge9_Node000007_Node000009" title=" " alt="" coords="268,232,300,227,301,232,269,237"/>
+<area shape="rect" id="Node000010" href="$class_mine.html" title="Thic class creates the mine object. It is derived from the ProjectileEntity class which is derived fr..." alt="" coords="323,259,372,285"/>
+<area shape="poly" id="edge10_Node000007_Node000010" title=" " alt="" coords="268,256,322,265,322,271,267,261"/>
+<area shape="rect" id="Node000011" href="$class_player_laser.html" title="The class holds the functionality for the PlayerLaser The playerLaser is derived from the ProjectileE..." alt="" coords="302,309,392,336"/>
+<area shape="poly" id="edge11_Node000007_Node000011" title=" " alt="" coords="241,265,320,306,318,311,239,270"/>
+</map>

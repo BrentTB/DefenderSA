@@ -1,0 +1,7 @@
+<map id="EnemyEntity" name="EnemyEntity">
+<area shape="rect" id="Node000001" title="This Enemy Entity class is the base class for all entities and is inhertied from GameEntity." alt="" coords="5,705,152,924"/>
+<area shape="rect" id="Node000002" href="$class_game_entity.html" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="19,139,139,656"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="81,671,81,706,76,706,76,671"/>
+<area shape="rect" id="Node000003" href="$class_entity_list.html" title="This class is an enum which holds the possible entities in the game." alt="" coords="45,5,113,75"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="81,74,81,122,76,122,76,74"/>
+</map>

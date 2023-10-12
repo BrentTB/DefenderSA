@@ -1,0 +1,16 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/EntityManager.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/EntityManager.h">
+<area shape="rect" id="Node000001" title="File that controls the management of entities and their positions." alt="" coords="172,5,404,64"/>
+<area shape="rect" id="Node000002" href="$_entity_manager_8cpp.html" title=" " alt="" coords="5,112,251,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="233,75,173,114,170,109,230,70"/>
+<area shape="rect" id="Node000003" href="$_game_8h.html" title="File that manages the running of the game." alt="" coords="197,219,379,277"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="291,79,291,218,285,218,285,79"/>
+<area shape="rect" id="Node000006" href="$_humanoid_kidnapping_8h.html" title="Manages the humanoid kidnapping class." alt="" coords="325,112,595,171"/>
+<area shape="poly" id="edge5_Node000001_Node000006" title=" " alt="" coords="349,70,414,109,412,114,347,75"/>
+<area shape="rect" id="Node000004" href="$_game_8cpp.html" title=" " alt="" coords="82,325,278,384"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="250,290,211,327,208,323,246,286"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title=" " alt="" coords="303,325,492,384"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="331,286,369,323,366,327,327,290"/>
+<area shape="poly" id="edge6_Node000006_Node000003" title=" " alt="" coords="401,181,336,221,334,216,399,177"/>
+<area shape="rect" id="Node000007" href="$_humanoid_kidnapping_8cpp.html" title=" " alt="" coords="404,219,687,277"/>
+<area shape="poly" id="edge7_Node000006_Node000007" title=" " alt="" coords="495,181,524,217,520,220,491,184"/>
+</map>

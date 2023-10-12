@@ -1,0 +1,5 @@
+<map id="GameEntity" name="GameEntity">
+<area shape="rect" id="Node000001" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="5,139,125,656"/>
+<area shape="rect" id="Node000002" href="$class_entity_list.html" title="This class is an enum which holds the possible entities in the game." alt="" coords="31,5,99,75"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,74,68,122,63,122,63,74"/>
+</map>

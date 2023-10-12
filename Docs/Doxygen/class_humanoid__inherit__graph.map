@@ -1,0 +1,5 @@
+<map id="Humanoid" name="Humanoid">
+<area shape="rect" id="Node000001" title="This class runds the humanoid functionality and is derived from GameEntity." alt="" coords="14,592,117,789"/>
+<area shape="rect" id="Node000002" href="$class_game_entity.html" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="5,5,125,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,559,68,592,63,592,63,559"/>
+</map>

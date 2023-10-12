@@ -1,0 +1,15 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/LanderLaser.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/LanderLaser.h">
+<area shape="rect" id="Node000001" title="File that stores the LanderLaser definition." alt="" coords="256,5,475,64"/>
+<area shape="rect" id="Node000002" href="$_entity_creator_8h.html" title="This class runs all the entity creation." alt="" coords="128,112,352,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="321,76,276,114,273,110,318,72"/>
+<area shape="rect" id="Node000007" href="$_lander_laser_8cpp.html" title=" " alt="" coords="376,112,608,171"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="413,72,459,110,456,114,410,76"/>
+<area shape="rect" id="Node000003" href="$_entity_creator_8cpp.html" title=" " alt="" coords="5,219,243,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="199,183,157,220,154,216,195,179"/>
+<area shape="rect" id="Node000004" href="$_game_8h.html" title="File that manages the running of the game." alt="" coords="266,219,449,277"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="285,179,327,216,324,220,282,183"/>
+<area shape="rect" id="Node000005" href="$_game_8cpp.html" title=" " alt="" coords="150,325,346,384"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="318,290,280,327,276,323,315,286"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title=" " alt="" coords="371,325,560,384"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="399,286,438,323,434,327,396,290"/>
+</map>

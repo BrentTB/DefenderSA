@@ -1,0 +1,5 @@
+<map id="FuelTank" name="FuelTank">
+<area shape="rect" id="Node000001" title="Class that intitialises the FuelTank and is derived from the GameEntity class." alt="" coords="19,592,111,704"/>
+<area shape="rect" id="Node000002" href="$class_game_entity.html" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="5,5,125,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="68,559,68,592,63,592,63,559"/>
+</map>

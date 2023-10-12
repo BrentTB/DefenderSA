@@ -1,0 +1,11 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/EntityCreator.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/EntityCreator.h">
+<area shape="rect" id="Node000001" title="This class runs all the entity creation." alt="" coords="128,5,352,64"/>
+<area shape="rect" id="Node000002" href="$_entity_creator_8cpp.html" title=" " alt="" coords="5,112,243,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="199,76,157,114,154,110,195,72"/>
+<area shape="rect" id="Node000003" href="$_game_8h.html" title="File that manages the running of the game." alt="" coords="266,112,449,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="285,72,327,110,324,114,282,76"/>
+<area shape="rect" id="Node000004" href="$_game_8cpp.html" title=" " alt="" coords="150,219,346,277"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="318,183,280,220,276,216,315,180"/>
+<area shape="rect" id="Node000005" href="$main_8cpp.html" title=" " alt="" coords="371,219,560,277"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="399,180,438,216,434,220,396,183"/>
+</map>

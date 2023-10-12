@@ -1,0 +1,21 @@
+var searchData=
+[
+  ['game_0',['Game',['../class_game.html#ad59df6562a58a614fda24622d3715b65',1,'Game']]],
+  ['gameentity_1',['GameEntity',['../class_game_entity.html#af089dd1e6fdfe5ba1ad44ace4d0bc997',1,'GameEntity']]],
+  ['gameover_2',['gameOver',['../class_score_manager.html#a3298508424a50f38ec0fbc5eb69979e6',1,'ScoreManager']]],
+  ['getangledifference_3',['getAngleDifference',['../class_enemy_entity.html#aabc27a9a988ec0503ff30c8446d2ddb3',1,'EnemyEntity']]],
+  ['getdefeatscore_4',['getDefeatScore',['../class_game_entity.html#ab2a3492f1963cb4ef9e81bfae292254f',1,'GameEntity']]],
+  ['getdeltatime_5',['getDeltaTime',['../class_clock.html#aa6bbd46f251a01c56f09ecfd89bcf324',1,'Clock']]],
+  ['getfont_6',['getFont',['../class_file_manager.html#ae70b91e0de2ff41f6dfff0a2d2167db6',1,'FileManager']]],
+  ['getgametime_7',['getGameTime',['../class_clock.html#a58c143daa65d16f993584b7ea9a00dfd',1,'Clock']]],
+  ['getkeyboardinput_8',['getkeyboardinput',['../class_keyboard_input.html#a103109a569e3ca7c5cdd0596bd09a526',1,'KeyboardInput::getKeyboardInput()'],['../class_window_u_i.html#ac69a8d091498edba356106302a034f55',1,'WindowUI::getKeyboardInput()']]],
+  ['getleaderboard_9',['getLeaderboard',['../class_score_manager.html#aad7701481c0f57262541e052bd52e31e',1,'ScoreManager']]],
+  ['getlinesfromfile_10',['getLinesFromFile',['../class_file_manager.html#a2a3d222fe30584395eb234ebbb21fd5f',1,'FileManager']]],
+  ['getmomentum_11',['getMomentum',['../class_lander.html#aa876301da8ab0665df04e813095d0684',1,'Lander']]],
+  ['getplayerinformation_12',['getPlayerInformation',['../class_player.html#ae23797cf56d651f111a31ecd6b7a19e9',1,'Player']]],
+  ['getposition_13',['getPosition',['../class_game_entity.html#a7dbf14957de42a9953ff534109d76d9f',1,'GameEntity']]],
+  ['getsize_14',['getSize',['../class_game_entity.html#a9eed1b4a5bc88c2b90d900698cbf3bf0',1,'GameEntity']]],
+  ['gettexture_15',['getTexture',['../class_file_manager.html#ab93aeae625d07f4761678c21ede493be',1,'FileManager']]],
+  ['gettiltangle_16',['gettiltangle',['../class_game_entity.html#a0912619ee241b349fc5a1408e09b10fd',1,'GameEntity::getTiltAngle()'],['../class_projectile_entity.html#a33542f22c4ef5fd43cc634fc9db5a53e',1,'ProjectileEntity::getTiltAngle()']]],
+  ['gettype_17',['getType',['../class_game_entity.html#abeb556c8a632e41f7430c937c1c45437',1,'GameEntity']]]
+];

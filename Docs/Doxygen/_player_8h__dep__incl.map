@@ -1,0 +1,20 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/Player.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/Player.h">
+<area shape="rect" id="Node000001" title="File that holds all the Player class." alt="" coords="412,5,596,64"/>
+<area shape="rect" id="Node000002" href="$_entity_creator_8h.html" title="This class runs all the entity creation." alt="" coords="122,112,345,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="416,72,308,114,307,109,415,68"/>
+<area shape="rect" id="Node000007" href="$_humanoid_kidnapping_8h.html" title="Manages the humanoid kidnapping class." alt="" coords="369,112,639,171"/>
+<area shape="poly" id="edge6_Node000001_Node000007" title=" " alt="" coords="507,80,507,112,501,112,501,80"/>
+<area shape="rect" id="Node000009" href="$_player_8cpp.html" title=" " alt="" coords="662,112,861,171"/>
+<area shape="poly" id="edge9_Node000001_Node000009" title=" " alt="" coords="590,68,692,109,690,114,588,73"/>
+<area shape="rect" id="Node000003" href="$_entity_creator_8cpp.html" title=" " alt="" coords="5,219,243,277"/>
+<area shape="poly" id="edge2_Node000002_Node000003" title=" " alt="" coords="194,183,156,220,152,216,191,180"/>
+<area shape="rect" id="Node000004" href="$_game_8h.html" title="File that manages the running of the game." alt="" coords="266,219,449,277"/>
+<area shape="poly" id="edge3_Node000002_Node000004" title=" " alt="" coords="280,179,325,216,322,220,277,183"/>
+<area shape="rect" id="Node000005" href="$_game_8cpp.html" title=" " alt="" coords="151,325,348,384"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="319,290,281,327,277,323,315,286"/>
+<area shape="rect" id="Node000006" href="$main_8cpp.html" title=" " alt="" coords="372,325,561,384"/>
+<area shape="poly" id="edge5_Node000004_Node000006" title=" " alt="" coords="400,286,439,323,435,327,396,290"/>
+<area shape="poly" id="edge7_Node000007_Node000004" title=" " alt="" coords="453,182,399,220,396,216,450,177"/>
+<area shape="rect" id="Node000008" href="$_humanoid_kidnapping_8cpp.html" title=" " alt="" coords="473,219,756,277"/>
+<area shape="poly" id="edge8_Node000007_Node000008" title=" " alt="" coords="547,180,586,216,583,220,543,183"/>
+</map>

@@ -1,0 +1,49 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/HumanoidKidnapping.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/HumanoidKidnapping.h">
+<area shape="rect" id="Node000001" title="Manages the humanoid kidnapping class." alt="" coords="358,5,628,64"/>
+<area shape="rect" id="Node000002" title=" " alt="" coords="5,411,74,437"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="358,42,272,56,230,68,191,83,158,104,132,130,115,161,109,199,109,276,104,311,92,345,61,400,56,397,87,343,99,310,104,276,104,198,110,159,128,126,155,100,189,79,228,63,271,51,357,37"/>
+<area shape="rect" id="Node000003" href="$_entity_list_8h.html" title="Enum class of the entities." alt="" coords="903,411,990,437"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="629,61,720,86,807,117,843,135,872,155,891,176,898,198,898,276,902,309,910,341,934,396,929,398,905,343,896,310,893,276,893,199,886,178,868,159,840,140,805,122,718,91,627,66"/>
+<area shape="rect" id="Node000004" href="$_entity_manager_8h.html" title="File that controls the management of entities and their positions." alt="" coords="297,261,414,288"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="444,67,418,88,396,113,380,147,369,182,359,246,354,246,364,181,375,145,392,111,415,84,441,63"/>
+<area shape="rect" id="Node000017" href="$_humanoid_8h.html" title="File that manages the humanoid class." alt="" coords="406,112,497,139"/>
+<area shape="poly" id="edge18_Node000001_Node000017" title=" " alt="" coords="482,65,466,99,462,96,477,63"/>
+<area shape="rect" id="Node000018" href="$_lander_8h.html" title="This file holds the class that controls the lander." alt="" coords="489,187,561,213"/>
+<area shape="poly" id="edge26_Node000001_Node000018" title=" " alt="" coords="502,64,511,111,523,171,517,172,506,113,496,65"/>
+<area shape="rect" id="Node000020" href="$_player_8h.html" title="File that holds all the Player class." alt="" coords="594,112,664,139"/>
+<area shape="poly" id="edge23_Node000001_Node000020" title=" " alt="" coords="538,62,598,101,595,106,536,67"/>
+<area shape="rect" id="Node000005" href="$_game_entity_8h.html" title="File that mangages all the game entitiy functions." alt="" coords="446,336,548,363"/>
+<area shape="poly" id="edge4_Node000004_Node000005" title=" " alt="" coords="381,286,460,326,457,331,379,291"/>
+<area shape="poly" id="edge14_Node000005_Node000002" title=" " alt="" coords="446,359,291,379,89,413,89,408,290,374,446,354"/>
+<area shape="poly" id="edge15_Node000005_Node000003" title=" " alt="" coords="548,355,697,376,888,407,887,413,696,381,548,360"/>
+<area shape="rect" id="Node000006" title=" " alt="" coords="822,411,879,437"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="548,356,663,377,807,407,806,413,662,382,547,361"/>
+<area shape="rect" id="Node000007" title=" " alt="" coords="98,411,157,437"/>
+<area shape="poly" id="edge6_Node000005_Node000007" title=" " alt="" coords="446,361,325,381,173,413,172,407,324,376,445,356"/>
+<area shape="rect" id="Node000008" title=" " alt="" coords="181,411,234,437"/>
+<area shape="poly" id="edge7_Node000005_Node000008" title=" " alt="" coords="446,364,250,413,248,407,445,359"/>
+<area shape="rect" id="Node000009" title=" " alt="" coords="259,411,330,437"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="462,366,345,407,343,402,461,361"/>
+<area shape="rect" id="Node000010" title=" " alt="" coords="355,411,410,437"/>
+<area shape="poly" id="edge9_Node000005_Node000010" title=" " alt="" coords="478,365,417,404,414,400,475,361"/>
+<area shape="rect" id="Node000011" title=" " alt="" coords="434,411,480,437"/>
+<area shape="poly" id="edge10_Node000005_Node000011" title=" " alt="" coords="492,365,473,398,469,396,488,362"/>
+<area shape="rect" id="Node000012" title=" " alt="" coords="505,411,569,437"/>
+<area shape="poly" id="edge11_Node000005_Node000012" title=" " alt="" coords="506,362,525,396,520,398,501,365"/>
+<area shape="rect" id="Node000013" title=" " alt="" coords="593,411,633,437"/>
+<area shape="poly" id="edge12_Node000005_Node000013" title=" " alt="" coords="518,361,582,400,579,405,516,365"/>
+<area shape="rect" id="Node000014" title=" " alt="" coords="656,411,708,437"/>
+<area shape="poly" id="edge13_Node000005_Node000014" title=" " alt="" coords="530,361,643,404,641,409,528,366"/>
+<area shape="rect" id="Node000015" href="$_clock_8h.html" title="This file manages the clock functionality. The clock controls the time of the game...." alt="" coords="732,411,798,437"/>
+<area shape="poly" id="edge16_Node000005_Node000015" title=" " alt="" coords="545,361,718,407,716,412,543,366"/>
+<area shape="rect" id="Node000016" title=" " alt="" coords="696,485,834,512"/>
+<area shape="poly" id="edge17_Node000015_Node000016" title=" " alt="" coords="768,438,768,470,762,470,762,438"/>
+<area shape="poly" id="edge19_Node000017_Node000005" title=" " alt="" coords="455,139,463,203,479,287,490,321,484,322,474,289,458,204,450,139"/>
+<area shape="poly" id="edge20_Node000017_Node000018" title=" " alt="" coords="466,137,503,174,499,177,462,141"/>
+<area shape="rect" id="Node000019" href="$_enemy_entity_8h.html" title="This file covers all the functions that are used for all enemy entities." alt="" coords="489,261,596,288"/>
+<area shape="poly" id="edge21_Node000018_Node000019" title=" " alt="" coords="530,213,538,245,533,247,525,214"/>
+<area shape="poly" id="edge22_Node000019_Node000005" title=" " alt="" coords="537,290,515,324,511,321,532,287"/>
+<area shape="poly" id="edge24_Node000020_Node000005" title=" " alt="" coords="648,137,665,152,680,170,689,192,687,214,662,255,626,288,586,313,549,332,546,327,584,309,623,284,657,252,682,212,684,192,676,173,661,155,645,141"/>
+<area shape="rect" id="Node000021" href="$_user_input_8h.html" title="The file that holds the UserInput enum." alt="" coords="585,187,673,213"/>
+<area shape="poly" id="edge25_Node000020_Node000021" title=" " alt="" coords="632,139,632,171,626,171,626,139"/>
+</map>

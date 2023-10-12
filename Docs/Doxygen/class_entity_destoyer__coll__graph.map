@@ -1,0 +1,3 @@
+<map id="EntityDestoyer" name="EntityDestoyer">
+<area shape="rect" id="Node000001" title="This class manages the destruction of entities when they are no longer needed." alt="" coords="5,5,104,75"/>
+</map>

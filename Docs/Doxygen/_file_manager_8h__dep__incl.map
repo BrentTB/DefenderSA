@@ -1,0 +1,20 @@
+<map id="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/FileManager.h" name="2023&#45;project&#45;2438311&#45;Butkow&#45;2118091&#45;Schwark/game&#45;source&#45;code/FileManager.h">
+<area shape="rect" id="Node000001" title="Controls the input and output of files." alt="" coords="268,5,487,64"/>
+<area shape="rect" id="Node000002" href="$_file_manager_8cpp.html" title=" " alt="" coords="5,112,238,171"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="294,73,193,114,191,109,292,68"/>
+<area shape="rect" id="Node000003" href="$_score_manager_8h.html" title="File that holds all the definition of the ScoreManager." alt="" coords="262,112,493,171"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="380,80,380,112,375,112,375,80"/>
+<area shape="rect" id="Node000005" href="$_window_u_i_8h.html" title="File that holds all the UI implementation of the game." alt="" coords="428,219,634,277"/>
+<area shape="poly" id="edge9_Node000001_Node000005" title=" " alt="" coords="463,70,488,88,508,110,521,137,530,166,535,218,529,219,524,167,516,139,503,114,484,92,460,74"/>
+<area shape="rect" id="Node000004" href="$_score_manager_8cpp.html" title=" " alt="" coords="159,219,404,277"/>
+<area shape="poly" id="edge3_Node000003_Node000004" title=" " alt="" coords="343,184,310,220,306,216,339,180"/>
+<area shape="poly" id="edge4_Node000003_Node000005" title=" " alt="" coords="433,177,490,216,487,220,431,182"/>
+<area shape="rect" id="Node000006" href="$_game_8h.html" title="File that manages the running of the game." alt="" coords="326,325,509,384"/>
+<area shape="poly" id="edge5_Node000005_Node000006" title=" " alt="" coords="491,290,450,327,447,323,487,286"/>
+<area shape="rect" id="Node000009" href="$_window_u_i_8cpp.html" title=" " alt="" coords="533,325,753,384"/>
+<area shape="poly" id="edge8_Node000005_Node000009" title=" " alt="" coords="574,286,614,323,610,327,571,290"/>
+<area shape="rect" id="Node000007" href="$_game_8cpp.html" title=" " alt="" coords="211,432,408,491"/>
+<area shape="poly" id="edge6_Node000006_Node000007" title=" " alt="" coords="379,397,341,434,337,430,375,393"/>
+<area shape="rect" id="Node000008" href="$main_8cpp.html" title=" " alt="" coords="432,432,622,491"/>
+<area shape="poly" id="edge7_Node000006_Node000008" title=" " alt="" coords="460,393,499,430,495,434,456,397"/>
+</map>

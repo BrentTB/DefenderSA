@@ -1,0 +1,9 @@
+<map id="EnemyEntity" name="EnemyEntity">
+<area shape="rect" id="Node000001" title="This Enemy Entity class is the base class for all entities and is inhertied from GameEntity." alt="" coords="47,592,194,811"/>
+<area shape="rect" id="Node000003" href="$class_bomber.html" title="Bomber class Manages the bomber object. Setting up initial variable size and functions." alt="" coords="5,912,89,1003"/>
+<area shape="poly" id="edge2_Node000001_Node000003" title=" " alt="" coords="88,826,63,913,57,912,83,824"/>
+<area shape="rect" id="Node000004" href="$class_lander.html" title="This class is a derived class of EnemyEntity which is also derived from GameEntity...." alt="" coords="113,859,277,1056"/>
+<area shape="poly" id="edge3_Node000001_Node000004" title=" " alt="" coords="159,824,169,858,164,859,154,826"/>
+<area shape="rect" id="Node000002" href="$class_game_entity.html" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="61,5,181,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="123,559,123,592,118,592,118,559"/>
+</map>

@@ -1,0 +1,5 @@
+<map id="Player" name="Player">
+<area shape="rect" id="Node000001" title="This is the player class, it manages all the functions associated with player This class is a derived..." alt="" coords="5,592,155,853"/>
+<area shape="rect" id="Node000002" href="$class_game_entity.html" title="This is the parent game entity class. All game entities are derived from this class." alt="" coords="20,5,140,544"/>
+<area shape="poly" id="edge1_Node000001_Node000002" title=" " alt="" coords="83,559,83,592,77,592,77,559"/>
+</map>
