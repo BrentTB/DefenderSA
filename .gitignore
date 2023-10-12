@@ -1,9 +1,6 @@
 # Created by https://www.toptal.com/developers/gitignore/api/c++,codeblocks,xcode,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=c++,codeblocks,xcode,visualstudiocode
 
-checkInsertions.sh
-mainpage.h
-Doxyfile
 
 ### C++ ###
 # Prerequisites
@@ -25,7 +22,6 @@ doctest.h
 # Compiled Dynamic libraries
 *.so
 *.dylib
-*.dll
 
 # Fortran module files
 *.mod
@@ -38,7 +34,6 @@ doctest.h
 *.lib
 
 # Executables
-*.exe
 *.out
 *.app
 
